@@ -1,0 +1,89 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "body": "Its friday then, saturday sunday whaaaat?",
+      "author": "Lando Norris",
+      "comments": [],
+      "likes": 3
+    },
+    {
+      "id": 2,
+      "body": "Up n down like a roller coaster",
+      "author": "Carlos Sainz",
+      "comments": [],
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "body": "smooooth criminal",
+      "author": "Carlos Sainz",
+      "comments": [],
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "body": "You need to leave space always",
+      "author": "Fernando Alonso",
+      "comments": [],
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "body": "Where is Palmer?",
+      "author": "Fernando Alonso",
+      "comments": [],
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "author": "Lewis Hamilton",
+      "body": "Bono, my tires are dead",
+      "comments": [],
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "author": "Kimi Raikonan",
+      "body": "5 seconds? For whaaaat?",
+      "comments": [],
+      "likes": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Lando Norris",
+      "img_url": "https://twitter.com/LandoNorris/photo",
+      "followers": [],
+      "following": []
+    },
+    {
+      "id": 2,
+      "name": "Carlos Sainz",
+      "img_url": "https://twitter.com/Carlossainz55/photo",
+      "followers": [],
+      "following": []
+    },
+    {
+      "id": 3,
+      "name": "Fernando Alonso",
+      "img_url": "https://twitter.com/alo_oficial/photo",
+      "followers": [],
+      "following": []
+    },{
+      "id": 5,
+      "name": "Lewis Hamilton",
+      "img_url": "https://twitter.com/HamiltonManiacs/photo",
+      "followers": [],
+      "following": []
+    },
+    {
+      "id": 4,
+      "name": "Sebastian Vettel",
+      "img_url": "https://twitter.com/f1_vettel/photo",
+      "followers": [],
+      "following": []
+    }
+  ]
+}
